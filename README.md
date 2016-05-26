@@ -4,8 +4,9 @@ Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-common/9.0.0/firebase-common-9.0.0.aar`
 
 **Notes:**<br/>
-- **_Tag <provider> attribute authorities has invalid character '$'._** compiler error
-  requires you to change `${applicationId}` with your Java app package in `AndroidManifest.xml`. See [&lt;provider&gt;](https://developer.android.com/guide/topics/manifest/provider-element.html) tag documentation for more details.
+- **_Tag &lt;provider&gt; attribute authorities has invalid character '$'._**<br/>
+compiler error requires you to change `${applicationId}` with your Java app package in `AndroidManifest.xml`.<br/>
+See [&lt;provider&gt;](https://developer.android.com/guide/topics/manifest/provider-element.html) tag documentation for more details.
 
 
 **Requires:**
