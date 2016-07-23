@@ -1,7 +1,7 @@
 ## android-google-firebase-common
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-common/9.2.0/firebase-common-9.2.0.aar`
+`ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-common/9.2.1/firebase-common-9.2.1.aar`
 
 **Notes:**
 - **_Tag &lt;provider&gt; attribute authorities has invalid character '$'._**<br/>
@@ -18,4 +18,4 @@ See [&lt;provider&gt;](https://developer.android.com/guide/topics/manifest/provi
 - https://developers.google.com/android/guides/releases#june_2016_-_v92
 
 **SVN checkout:**
-- https://github.com/dandar3/android-google-firebase-common/tags/9.2.0
+- https://github.com/dandar3/android-google-firebase-common/tags/9.2.1
