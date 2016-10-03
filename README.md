@@ -1,7 +1,7 @@
 ## android-google-firebase-common
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-common/9.6.0/firebase-common-9.6.0.aar`
+`ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-common/9.6.1/firebase-common-9.6.1.aar`
 
 **Notes:**
 - **_Tag &lt;provider&gt; attribute authorities has invalid character '$'._**<br/>
@@ -11,8 +11,8 @@ See [&lt;provider&gt;](https://developer.android.com/guide/topics/manifest/provi
 
 **Requires:**
 - `Android 7.0 (API 24) SDK Platform`
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/9.6.0)
-- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/9.6.0)
+- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/9.6.1)
+- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/9.6.1)
 
 **References:**
 - https://developers.google.com/android/guides/releases#september_2016_-_v96
@@ -20,6 +20,6 @@ See [&lt;provider&gt;](https://developer.android.com/guide/topics/manifest/provi
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-firebase-common/9.6.0/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-firebase-common/9.6.1/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
-  https://github.com/dandar3/android-google-firebase-common/tags/9.6.0
+  https://github.com/dandar3/android-google-firebase-common/tags/9.6.1
