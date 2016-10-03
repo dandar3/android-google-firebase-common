@@ -11,8 +11,8 @@ See [&lt;provider&gt;](https://developer.android.com/guide/topics/manifest/provi
 
 **Requires:**
 - `Android 7.0 (API 24) SDK Platform`
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/24.2.0)
-- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/24.2.0)
+- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/9.6.0)
+- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/9.6.0)
 
 **References:**
 - https://developers.google.com/android/guides/releases#september_2016_-_v96
