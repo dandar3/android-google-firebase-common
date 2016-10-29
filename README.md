@@ -15,8 +15,8 @@ See [&lt;provider&gt;](https://developer.android.com/guide/topics/manifest/provi
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/9.8.0)
 
 **References:**
+- https://firebase.google.com/support/release-notes/android#9.8
 - https://developers.google.com/android/guides/releases#october_2016_-_v98
-- https://firebase.google.com/support/release-notes/android#9.6
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
