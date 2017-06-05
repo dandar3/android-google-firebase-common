@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.firebase"
-    android:versionCode="1021"
-    android:versionName="10.2.1">
+    android:versionCode="1024"
+    android:versionName="10.2.4">
     <uses-sdk android:minSdkVersion="14"/>
     <application>
 
