@@ -1,10 +1,17 @@
-<?xml version="1.0"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.firebase"
-    android:versionCode="1162"
-    android:versionName="11.6.2">
-    <uses-sdk android:minSdkVersion="14"/>
-    <application>
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.firebase.firebase_common" 
+    android:versionCode="1180"
+    android:versionName="11.8.0">
 
-        <provider android:authorities="${applicationId}.firebaseinitprovider" android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:initOrder="100"/>
+    <uses-sdk android:minSdkVersion="14" />
+
+    <application>
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="${applicationId}.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
     </application>
+
 </manifest>
