@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.firebase.firebase_common" 
-    android:versionCode="1500"
-    android:versionName="15.0.0">
+    package="com.google.firebase"
+    android:versionName="18.0.0" >
 
-    <uses-sdk android:minSdkVersion="14" />
-
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="28" />
+    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+    <!-- <uses-sdk android:minSdkVersion="14"/> -->
     <application>
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
