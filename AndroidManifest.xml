@@ -15,17 +15,18 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.google.firebase"
-    android:versionName="19.3.0" >
+    android:versionName="19.3.1" >
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="28" />
+        android:targetSdkVersion="29" />
     <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
     <!-- <uses-sdk android:minSdkVersion="14"/> -->
     <application>
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
             android:authorities="${applicationId}.firebaseinitprovider"
+            android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
 
